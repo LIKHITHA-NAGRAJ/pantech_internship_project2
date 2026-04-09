@@ -246,9 +246,7 @@ DHT11 Pin 4 (GND)  → NodeMCU GND
 ## 👩‍💻 Author
 
 **Likhitha**  
-IoT Developer | ESP8266 + Azure + Grafana
 
----
 
 ## 📄 License
 
