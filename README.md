@@ -188,13 +188,6 @@ DHT11 Pin 4 (GND)  → NodeMCU GND
 
 ---
 
-## 📊 Dashboard Screenshots
-
-<p align="center">
-  <img src="images/temp_panel.png" width="45%"/>
-  <img src="images/humidity_panel.png" width="45%"/>
-</p>
-
 ---
 
 ## 🔒 Security Notes
